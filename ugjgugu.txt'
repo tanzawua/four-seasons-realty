@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+
+
+      
+
+
+   
+<nav>
+ <!-- carta de precentacion-->
+ 
+   <!--menu-->
+   <div class="navbar">
+            
+    <div class="container nav-container">
+      <input class="checkbox" type="checkbox" name="" id="" />
+      <div class="hamburger-lines">
+        <span class="line line1"></span>
+        <span class="line line2"></span>
+        <span class="line line3"></span>
+      </div>
+      
+      
+      <div class="logo">
+        <h1>Four Seasons Realty LCC</h1>
+      </div>
+      <div class="menu-items">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About us</a></li>
+        <li><a href="#">Our agents</a></li>
+        <li><a href="#">Contact us</a></li>
+        <li><a href="#">Become a fhr agent</a></li>
+        
+      </div>
+    </div>
+  </div>
+  
+</nav>
+ 
+ 
+      <!--boton de contacto-->
+      <div class="contenedor-debajo">
+        <!-- Otros elementos debajo -->
+
+        <div class="contenedor04">
+     
+ <article>
+    <figure>
+
+      <div
+      class="CONTENEDOR8">
+      <div class="linea"></div>
+       <div class="imagen-container">
+        <img src="/img/coronaaaaaa (1).png" alt="Imagen" width="50" height="50">
+       </div>
+       <div class="linea"></div>
+
+
+       
+
+     <div class="overlay"></div>
+
+     <div class="text">
+       <div class="wrapper">
+         <div id="L" class="letter">F</div>
+         <div class="shadow">F</div>
+       </div>
+       <div class="wrapper">
+         <div id="I" class="letter">o</div>
+         <div class="shadow">o</div>
+       </div>
+       <div class="wrapper">
+         <div id="G" class="letter">u</div>
+         <div class="shadow">u</div>
+       </div>
+       <div class="wrapper">
+         <div id="H" class="letter">r</div>
+         <div class="shadow">r</div>
+       </div>
+       <div class="wrapper">
+         <div id="T" class="letter">S</div>
+         <div class="shadow">S</div>
+       </div>
+       <div class="wrapper">
+         <div id="N" class="letter">e</div>
+         <div class="shadow">e</div>
+       </div>
+       <div class="wrapper">
+         <div id="E" class="letter">a</div>
+         <div class="shadow">a</div>
+       </div>
+       <div class="wrapper">
+         <div id="S" class="letter">s</div>
+         <div class="shadow">s</div>
+       </div>
+       <div class="wrapper">
+         <div id="Stwo" class="letter">o</div>
+         <div class="shadow">o</div>
+       </div>
+       <div class="wrapper">
+         <div id="Stwo" class="letter">n</div>
+         <div class="shadow">n</div>
+       </div>
+       <div class="wrapper">
+         <div id="Stwo" class="letter">s</div>
+         <div class="shadow">S</div>
+       </div>
+       <div class="wrapper">
+         <div id="Stwo" class="letter">R</div>
+         <div class="shadow">R</div>
+       </div>
+       <div class="wrapper">
+         <div id="Stwo" class="letter">e</div>
+         <div class="shadow">e</div>
+       </div>
+       <div class="wrapper">
+         <div id="Stwo" class="letter">a</div>
+         <div class="shadow">a</div>
+       </div>
+       <div class="wrapper">
+         <div id="Stwo" class="letter">l</div>
+         <div class="shadow">l</div>
+       </div>
+       <div class="wrapper">
+         <div id="Stwo" class="letter">t</div>
+         <div class="shadow">t</div>
+       </div>
+       <div class="wrapper">
+         <div id="Stwo" class="letter">y</div>
+         <div class="shadow">y</div>
+       </div>
+       
+     </div>
+    </div>
+
+    </figure>
+  
+   
+  </article>
+
+
+
+
+  
+
+</div>
+  <!--texto-->
+
+ 
+      <button>
+        <span>Contactanos!</span>
+        <svg viewBox="-5 -5 110 110" preserveAspectRatio="none" aria-hidden="true">
+          <path d="M0,0 C0,0 100,0 100,0 C100,0 100,100 100,100 C100,100 0,100 0,100 C0,100 0,0 0,0" />
+        </svg>
+      </button>
+    
+
+    
+      </div>
+
+
+        
+ 
+  
+     
+      
+
+ 
+
+    
+
+
+
+    
+    <!--cards de casas -->
+    <div class="contenedor-cartas">
+    <h5 contenteditable>Gambetta</h5>
+    <p1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem minus rerum sapiente voluptas maxime quod reiciendis, deserunt quasi. Nobis, libero iste doloremque ducimus sint repellendus non!orem36Smooth hover effect achieved by using variable fonts.</p1>
+    <div class="wrap">
+        <div class="box">
+          <div class="box-top">
+            
+            <img class="box-image" src="https://ap.rdcpix.com/10a6f3b582215c8ca6c4c8f9c8c56f49l-m1869740816od-w480_h360_x2.webp?w=640&q=75" alt="Girl Eating Pizza">
+            <div class="title-flex">
+              <h6 class="box-title">38335 Sonnet Landing Ave,
+                Zephyrhills, FL 33540</h6>
+              <p6 class="user-follow-info">description of the house</p6>
+            </div>
+            <p6 class="description">
+                 Why wait for your home to be built when this one is ready now. This stunning two-story home features open-concept design with spacious living areas. This METICULOUSLY HAYDEN Model is modernly designed and fully functional for any size family with a SPACIOUS 2605 square feet of Living Space, 5 Bedrooms, 3 Full Bathrooms, and 2 Car Garage! The Kitchen features ample cabinets and counter space, a corner pantry, and a central island for bar-style eating and entertaining. This home comes with all appliances including Refrigerator, built-in Dishwasher, Range, Microwave, Washer, Dryer, Located on the First Floor, there is also a spacious Bedroom and Full Bathroom which is perfect for guests. On the Second Floor, you will find the well-appointed Owner's Suite features an en suite Bath with spacious walk in shower, double vanity, and two large Walk-in Closets which provide plenty of storage. Three additional Bedrooms surround a Loft Living Area and a third Full Bathroom. The Laundry Room is conveniently located upstairs as well. Double Sliding Glass Doors off of the Dinette Area open to the HUGE backyard with Pond Views and no rear neighbors. A Resort Style Community Pool is located at the front of Zephyr Ridge. Conveniently located with close proximity to the shopping, restaurants, entertainment, schools, colleges, and hospitals in Zephyrhills, Wesley Chapel, and Dade City. A MUST SEE Home that won't last! Call today for your private showing!</p6>
+          </div>
+          <a href="#" class="button1">book by</a>
+          
+          <a href="#" class="button3">see more</a>
+
+        </div>
+        
+        
+        
+        
+        <div class="box">
+          <div class="box-top">
+            <img class="box-image" src="https://ap.rdcpix.com/bebb180353db08aae8651f9d2aee8dd2l-m84822965od-w480_h360_x2.webp?w=640&q=75" alt="Girl Eating Pizza">
+            <div class="title-flex">
+              <h6 class="box-title">13748 Wineberry Dr, Dade City, FL 33525</h6>
+              <p6 class="user-follow-info">description of the house</p6>
+            </div>
+            <p6 class="description">This beautiful home is located in the HERITAGE HILLS community. Inside the home, you'll find four spacious bedrooms and two bathrooms, providing ample space for comfortable living. The kitchen boasts elegant granite countertops, adding a touch of sophistication. The family room serves as the heart of the home, providing a cozy and inviting space for relaxation and entertainment. Additionally, the property includes a two-car garage, offering convenient parking and storage. Tampa International Airport, Tampa Premium Outlets, and Downtown Tampa are all within reach.</p6>
+          </div>
+          <a href="#" class="button2">book by </a>
+        
+          <a href="#" class="button3">see more</a>
+        </div>
+
+
+
+
+
+
+        <div class="box">
+          <div class="box-top">
+            <img class="box-image" src="https://images.pexels.com/photos/2816323/pexels-photo-2816323.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Girl Eating Pizza">
+            <div class="title-flex">
+              <h6 class="box-title">Taylor Green</h6>
+              <p6 class="user-follow-info">26 Projects</p6>
+            </div>
+            <p6 class="description">Whipped steamed roast cream beans macchiato skinny grinder café. Iced grinder go mocha steamed grounds cultivar panna aroma.</p6>
+          </div>
+          <a href="#" class="button2">Follow Taylor</a>
+
+          <a href="#" class="button3">see more</a>
+        </div>
+        
+        
+        
+        <div class="box">
+          <div class="box-top">
+            <img class="box-image" src="https://images.pexels.com/photos/221540/pexels-photo-221540.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Girl Eating Pizza">
+            <div class="title-flex">
+              <h6 class="box-title">Isaiah Jian</h6>
+              <p6 class="user-follow-info">12 Projects</p6>
+            </div>
+            <p6 class="description">Whipped steamed roast cream beans macchiato skinny grinder café. Iced grinder go mocha steamed grounds cultivar panna aroma.</p6>
+          </div>
+          <a href="#" class="button2">Follow Isaiah</a>
+        
+          <a href="#" class="button3">see more</a>
+        </div>
+
+        <div class="box">
+            <div class="box-top">
+              <img class="box-image" src="https://images.pexels.com/photos/221540/pexels-photo-221540.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Girl Eating Pizza">
+              <div class="title-flex">
+                <h6 class="box-title">Isaiah Jian</h6>
+                <p6 class="user-follow-info">12 Projects</p6>
+              </div>
+              <p6 class="description">Whipped steamed roast cream beans macchiato skinny grinder café. Iced grinder go mocha steamed grounds cultivar panna aroma.</p6>
+            </div>
+            <a href="#" class="button2">Follow Isaiah</a>
+            
+            
+            <a href="#" class="button3">see more</a>
+          
+          </div>
+
+
+
+          <div class="box">
+            <div class="box-top">
+              <img class="box-image" src="https://images.pexels.com/photos/221540/pexels-photo-221540.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Girl Eating Pizza">
+              <div class="title-flex">
+                <h6 class="box-title">Isaiah Jian</h6>
+                <p6 class="user-follow-info">12 Projects</p6>
+              </div>
+              <p6 class="description">Whipped steamed roast cream beans macchiato skinny grinder café. Iced grinder go mocha steamed grounds cultivar panna aroma.</p6>
+            </div>
+            <a href="#" class="button2">Follow Isaiah</a>
+
+            <a href="#" class="button3">see more</a>
+          </div>
+
+
+
+          <div class="box">
+            <div class="box-top">
+              <img class="box-image" src="https://images.pexels.com/photos/221540/pexels-photo-221540.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Girl Eating Pizza">
+              <div class="title-flex">
+                <h6 class="box-title">Isaiah Jian</h6>
+                <p6 class="user-follow-info">12 Projects</p6>
+              </div>
+              <p6 class="description">Whipped steamed roast cream beans macchiato skinny grinder café. Iced grinder go mocha steamed grounds cultivar panna aroma.</p6>
+            </div>
+            <a href="#" class="button2">Follow Isaiah</a>
+
+            <a href="#" class="button3">see more</a>
+          </div>
+
+
+
+
+
+          <div class="box">
+            <div class="box-top">
+              <img class="box-image" src="https://images.pexels.com/photos/221540/pexels-photo-221540.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Girl Eating Pizza">
+              <div class="title-flex">
+                <h6 class="box-title">Isaiah Jian</h6>
+                <p6 class="user-follow-info">12 Projects</p6>
+              </div>
+              <p6 class="description">Whipped steamed roast cream beans macchiato skinny grinder café. Iced grinder go mocha steamed grounds cultivar panna aroma.</p6>
+            </div>
+            <a href="#" class="button2">Follow Isaiah</a>
+            
+            <a href="#" class="button3">see more</a>
+        
+          </div>
+
+
+
+
+
+
+
+
+
+          
+
+
+      </div>
+    </div>
+
+    
+   
+    
+    <!--logo de empresa-->
+
+
+    
+
+</div>
+</body>
+</html>
